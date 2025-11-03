@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: About
 permalink: /about/
+author_profile: false
 ---
 
 I’m a physicist training to work in data science...

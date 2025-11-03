@@ -1,14 +1,13 @@
 # _data/navigation.yml
 
-- name: Home
-  link: /
-- name: About
-  link: /about/
-- name: Projects
-  dropdown:
-    - name: NYC Community Clustering
-      link: https://dylan-j-young.github.io/nyc-community-clustering/
-    - name: Thompson Lab Data Analysis
-      link: https://dylan-j-young.github.io/thompson-pulsed/
-# - name: Contact
-#   link: /contact/
+nav:
+- title: "Home"
+  url: "/"
+- title: "About"
+  url: "/about"
+- title: "Projects"
+  children:
+    - title: "NYC Community Clustering"
+      url: "/projects/nyc-community-clustering"
+    - title: "Thompson Lab Data Analysis"
+      url: "https://dylan-j-young.github.io/thompson-pulsed/"
