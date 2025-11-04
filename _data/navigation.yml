@@ -1,13 +1,17 @@
 # _data/navigation.yml
 
-nav:
-- title: "Home"
+main:
+- title: "Projects"
   url: "/"
 - title: "About"
   url: "/about"
+
+nav:
 - title: "Projects"
   children:
     - title: "NYC Community Clustering"
       url: "/projects/nyc-community-clustering"
+    - title: "Ph.D. Thesis"
+      url: "https://jila.colorado.edu/sites/default/files/2025-10/DylanYoung_PhDThesis_2025_0.pdf"
     - title: "Thompson Lab Data Analysis"
-      url: "https://dylan-j-young.github.io/thompson-pulsed/"
+      url: "https://github.com/dylan-j-young/thompson-pulsed"

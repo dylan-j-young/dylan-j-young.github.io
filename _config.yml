@@ -24,7 +24,7 @@ repository               : "dylan-j-young/dylan-j-young.github.io"
 # logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 # masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs              : # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 200 # For estimated read time
 # enable_copy_code_button  : # true, false (default)
 # copyright                : # "copyright" name, defaults to site.title
 # copyright_url            : # "copyright" URL, defaults to site.url
@@ -111,9 +111,8 @@ words_per_minute         : 200
 author:
   name             : "Dylan Young"
   avatar           : "/assets/images/headshot-circle.png"
-  bio              : "I am an **amazing** person."
+  bio              : "I am a physics Ph.D. learning the art of data science."
   # location         : "Somewhere"
-  # email            : "dylan.j.young@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -130,6 +129,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dylan-j-young"
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=6nDm_akAAAAJ&hl=en&oi=ao"
+    - label: "ORCID"
+      icon: "fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0003-3461-7116"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   # url: "https://instagram.com/"

@@ -12,7 +12,7 @@ toc_icon: "cog"
 toc_sticky: true
 ---
 
-New York has a rich tapestry of ever-changing neighborhoods. These regions act as a lens to help us better understand the city's communities, and because of this people often [have strong opinions](https://www.nytimes.com/interactive/2023/10/29/upshot/new-york-neighborhood-guide.html) on how they should be defined. But neighborhoods don't tell the full story, and real communities aren't always confined to these named boundaries. Understanding how people group together, independent of what we call an area, is a crucial part of learning the values and needs of a city at the local level.
+New York has a rich tapestry of ever-changing neighborhoods. These regions act as a lens to help us describe the city's communities, and because of this people often [have strong opinions](https://www.nytimes.com/interactive/2023/10/29/upshot/new-york-neighborhood-guide.html) on how they should be defined. But neighborhoods don't tell the full story, and real communities aren't always confined to these named boundaries. Understanding how people group together, independent of what we call an area, is a crucial part of learning the values and needs of a city at the local level.
 
 In this project, I study these communities through an alternate lens: demographic and economic similarities. I harness machine learning methods to spatially cluster the city into geographically compact regions of similar people and households. Investigating how these clusters differ from the usual neighborhood boundaries reveals some interesting insights into the city's human geography. If that sounds interesting to you, read on!
 
