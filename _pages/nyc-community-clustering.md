@@ -3,6 +3,8 @@ layout: single
 title: NYC Community Clustering
 permalink: /projects/nyc-community-clustering
 
+read_time: true
+
 # Table of Contents
 toc: true
 toc_label: "Contents"
@@ -19,7 +21,7 @@ In this project, I study these communities through an alternate lens: demographi
 <!-- I pulled demographic data primarily from the 2020 US Census Demographic Profile, supplemented with economic and urbanization data from the 2023 5-year American Community Survey.  -->
 I pulled data from the [2020 US Census Demographic Profile](https://www.census.gov/data/tables/2023/dec/2020-census-demographic-profile.html) and the [2023 5-year American Community Survey](https://www.census.gov/programs-surveys/acs.html) at the Census tract level. Using a combination of PCA, linear and nonlinear regression analysis, and spatial autocorrelation checks, I chose 11 largely independent features with interesting spatial structure. They cover a wide gamut of information:
 - (4) Race and nationality.
-    - Fractional populations of Hispanic, non-Hispanic white, non-Hispanic black, and other (Asian being the majority, along with Native American, Pacific Islander, and multiracial populations). This is only three independent features because the fractions sum to 1.
+    - Fractional populations of Hispanic, non-Hispanic white, non-Hispanic black, and other (this is three independent features because the fractions sum to 1). <!--  (Asian being the majority, along with Native American, Pacific Islander, and multiracial populations) -->
     - The fraction of foreign-born residents. <!-- as a proxy for immigrant communities. -->
 - (2) Age.
     - Median age and fractional working age population (between 18-64). <!-- These can identify strong concentrations of children, adults, and seniors more or less independently. -->
@@ -103,7 +105,7 @@ The housing stock of an area can have a strong impact on its demographics. Take 
         alt="Clusters in Forest Hills and Rego Park (high count). This figure has two panels, the left a map titled Cluster Geographies, and the right a plot titled Feature Scatter Plot."
     />
     <figcaption>
-        Comparing two demographic clusters in Forest Hills and Rego Park. In this area, the fraction of married households shows a strong negative correlation with the fraction of 20+ unit apartment buildings, and this defines the boundary between clusters 54 (orange) and 31 (blue).
+        Comparing two demographic clusters in Forest Hills and Rego Park. In this area, the fraction of married households is strongly negatively correlated with the fraction of 20+ unit apartment building.
     </figcaption>
 </figure>
 
