@@ -13,7 +13,7 @@ Using spatial clustering techniques to uncover regions with similar demographic,
 [<i class="fab fa-fw fa-github"></i> Project Repository](https://github.com/dylan-j-young/nyc-community-clustering){: .btn .btn--primary}
 
 ## Ph.D. Thesis
-<!-- A set of custom classes designed to streamline data handling for experiments performed in my Ph.D. work, focusing on realtime preprocessing of high-volume data streams and rapid exploratory data analysis. -->
+For my physics Ph.D. work, I designed and implemented quantum simulation experiments using ultracold atoms trapped between two mirrors.
 
 [<i class="fa-solid fa-list"></i> Summary Page](/projects/phd-thesis){: .btn .btn--info}
 [<i class="fa-solid fa-file-lines"></i> Thesis PDF](https://jila.colorado.edu/sites/default/files/2025-10/DylanYoung_PhDThesis_2025_0.pdf){: .btn .btn--warning}
@@ -21,5 +21,5 @@ Using spatial clustering techniques to uncover regions with similar demographic,
 ## Thompson Lab Data Analysis Package
 A set of custom classes designed to streamline data handling for experiments performed in my Ph.D. work, focusing on realtime preprocessing of high-volume data streams and rapid exploratory data analysis.
 
-[<i class="fa-solid fa-list"></i> Summary Page (work in progress!)](/){: .btn .btn--info}
+<!-- [<i class="fa-solid fa-list"></i> Summary Page (work in progress!)](/){: .btn .btn--info} -->
 [<i class="fab fa-fw fa-github"></i> Project Repository](https://github.com/dylan-j-young/thompson-pulsed){: .btn .btn--primary}
