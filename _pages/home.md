@@ -15,7 +15,7 @@ Using spatial clustering techniques to uncover regions with similar demographic,
 ## Ph.D. Thesis
 <!-- A set of custom classes designed to streamline data handling for experiments performed in my Ph.D. work, focusing on realtime preprocessing of high-volume data streams and rapid exploratory data analysis. -->
 
-[<i class="fa-solid fa-list"></i> Summary Page (work in progress!)](/){: .btn .btn--info}
+[<i class="fa-solid fa-list"></i> Summary Page](/projects/phd-thesis){: .btn .btn--info}
 [<i class="fa-solid fa-file-lines"></i> Thesis PDF](https://jila.colorado.edu/sites/default/files/2025-10/DylanYoung_PhDThesis_2025_0.pdf){: .btn .btn--warning}
 
 ## Thompson Lab Data Analysis Package

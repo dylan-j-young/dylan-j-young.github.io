@@ -12,6 +12,6 @@ nav:
     - title: "NYC Community Clustering"
       url: "/projects/nyc-community-clustering"
     - title: "Ph.D. Thesis"
-      url: "https://jila.colorado.edu/sites/default/files/2025-10/DylanYoung_PhDThesis_2025_0.pdf"
+      url: "/projects/phd-thesis"
     - title: "Thompson Lab Data Analysis"
       url: "https://github.com/dylan-j-young/thompson-pulsed"
