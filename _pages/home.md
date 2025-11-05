@@ -6,8 +6,8 @@ permalink: /
 
 Welcome! Glad you stopped by. Check out my projects below, or learn more [about me](/about).
 
-## Spatial Clustering of NYC Demographics
-<!-- Using **spatially constrained algorithms (SKATER, REDCAP)** to uncover regional structure beyond vanilla K-Means.   -->
+## Clustering NYC Demographic Communities
+Using spatial clustering techniques to uncover regions with similar demographic, housing, and economic characteristics.
 
 [<i class="fa-solid fa-list"></i> Summary Page](/projects/nyc-community-clustering){: .btn .btn--info}
 [<i class="fab fa-fw fa-github"></i> Project Repository](https://github.com/dylan-j-young/nyc-community-clustering){: .btn .btn--primary}

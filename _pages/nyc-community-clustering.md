@@ -8,7 +8,7 @@ read_time: true
 # Table of Contents
 toc: true
 toc_label: "Contents"
-toc_icon: "cog"
+toc_icon: "fa-solid fa-list-ol"
 toc_sticky: true
 ---
 
