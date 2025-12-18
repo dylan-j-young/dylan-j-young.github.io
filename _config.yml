@@ -111,7 +111,7 @@ words_per_minute         : 200 # For estimated read time
 author:
   name             : "Dylan Young"
   avatar           : "/assets/images/headshot-circle.png"
-  bio              : "I am a physics Ph.D. learning the art of data science."
+  bio              : "I am a physics Ph.D. looking for exciting data science projects."
   # location         : "Somewhere"
   links:
     - label: "Email"
