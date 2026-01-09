@@ -15,3 +15,7 @@ nav:
       url: "/projects/phd-thesis"
     - title: "Thompson Lab Data Analysis"
       url: "https://github.com/dylan-j-young/thompson-pulsed"
+- title: "Visualizations"
+  children:
+    - title: "NYC Cluster Map"
+      url: "/vizzes/viz-demographic-clusters"
