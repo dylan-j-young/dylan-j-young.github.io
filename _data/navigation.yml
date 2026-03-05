@@ -9,11 +9,13 @@ main:
 nav:
 - title: "Projects"
   children:
+    - title: "B Line Performance Analysis"
+      url: "projects/b-line-performance-analysis"
     - title: "NYC Community Clustering"
       url: "/projects/nyc-community-clustering"
     - title: "Ph.D. Thesis"
       url: "/projects/phd-thesis"
-    - title: "Thompson Lab Data Analysis"
+    - title: "Thompson Lab Python Package"
       url: "https://github.com/dylan-j-young/thompson-pulsed"
 - title: "Visualizations"
   children:
