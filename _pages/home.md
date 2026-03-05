@@ -6,6 +6,11 @@ permalink: /
 
 Welcome! Glad you stopped by. Check out my projects below, or learn more [about me](/about).
 
+## What's Wrong With the MTA B Line?
+Using a SQL and Python-based data workflow, I study subway performance analysis on the MTA B line and provide recommendations for improvement.
+
+[<i class="fa-solid fa-list"></i> Summary Page](/projects/b-line-performance-analysis){: .btn .btn--info}
+
 ## Clustering NYC Demographic Communities
 Using spatial clustering techniques to uncover regions with similar demographic, housing, and economic characteristics.
 
