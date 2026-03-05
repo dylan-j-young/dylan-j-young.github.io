@@ -22,8 +22,8 @@
     width: auto;
     height: auto;
     max-width: 100%;
-    max-height: 70vh;
-    /* preserve aspect ratio unless figure is too tall; then clamp to 80% of viewport-height */
+    max-height: 65vh;
+    /* preserve aspect ratio unless figure is too tall; then clamp to 65% of viewport-height */
 }
 
 .responsive-figure figcaption {
