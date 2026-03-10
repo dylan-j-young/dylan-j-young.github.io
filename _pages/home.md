@@ -10,6 +10,7 @@ Welcome! Glad you stopped by. Check out my projects below, or learn more [about 
 Using a SQL and Python-based data workflow, I study subway performance analysis on the MTA B line and provide recommendations for improvement.
 
 [<i class="fa-solid fa-list"></i> Summary Page](/projects/b-line-performance-analysis){: .btn .btn--info}
+[<i class="fab fa-fw fa-github"></i> Project Repository](https://github.com/dylan-j-young/mta-b-line-analysis){: .btn .btn--primary}
 
 ## Clustering NYC Demographic Communities
 Using spatial clustering techniques to uncover regions with similar demographic, housing, and economic characteristics.
